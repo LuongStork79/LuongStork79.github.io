@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>LuongStork79.ddnsfree.com</string>
+				<string>https://LuongStork79.ddnsfree.com</string>
 			</dict>
 			<key>PayloadDisplayName</key>
 			<string>Chặn QC By LươngStork79</string>
