@@ -13,7 +13,7 @@
 				<string>LuongStork79.ddnsfree.com</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>NextDNS-By-LươngStork79</string>
+			<string>Chặn QC By LươngStork79</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.f5bda4ab-28d2-4e37-8509-41e92c1584ee</string>
 			<key>PayloadType</key>
@@ -25,15 +25,16 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>NextDNS Edit LươngStork79
+	<string>Chặn QC By LươngStork79
 - Chặn thu hồi Chứng chỉ 
 - Chặn quảng cáo trung gian qua DNS ( 80% lượng QC dc tắt ).
 - Không bị hao pin và thiếu ổn định như kết nối như qua VPN.
 - Hỗ trợ tất cả các đời IOS.
 - Hỗ trợ chặn quảng cáo trên nền 3G,4G và Wifi.
-- Chặn Ads trên App và Web.</string>
+- Chặn Ads trên App và Web.
+-Contact: 070 5555 090 </string>
 	<key>PayloadDisplayName</key>
-	<string>NextDNS Edit LươngStork79</string>
+	<string>Chặn QC By LươngStork79</string>
 	<key>PayloadIdentifier</key>
 	<string>NextDns</string>
 	<key>PayloadRemovalDisallowed</key>
